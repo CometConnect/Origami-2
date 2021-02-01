@@ -1,0 +1,44 @@
+h1
+{
+    font-size: 80px;
+    align-self: center;
+}
+body
+{
+    background-color:whitesmoke;
+}
+.menu
+{
+    display:flex;
+    justify-content:center;
+    background-color: black;
+    font-size:20px;
+    font-family:sans-serif;
+    font-weight:400;
+    color:white;
+}
+.grid
+{
+    display:flex;
+    background-color:yellowgreen;
+    flex-wrap:wrap;
+}
+.item
+{
+    display:flex;
+    flex-wrap:unset;
+}
+.footer
+{
+    background-color: black;
+    font-size:20px;
+    font-family:sans-serif;
+    font-weight:400;
+    color:white;
+}
+.footerIMG
+{
+    display:flex;
+    justify-content:left;
+    background-color: black;
+}
